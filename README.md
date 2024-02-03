@@ -6,7 +6,7 @@
 
 ### About Me
 
-- 🔭 I'm currently working at Michelin as a Data Manager, Data Analyst and Digital Developer
+- 🔭 I'm currently working at Michelin as Data Analyst and Digital Developer
 - 🌱 I'm currently learning UI/UX to understand and help create intuitive and captivating solutions for the end user
 
 <h3 align="left">This is my Tech Stack:</h3>
